@@ -25,7 +25,7 @@ int main() {
    bubbleSort(vec);
 
    for(int num: vec) {
-       cout << num;
+       cout << num << ",";
    }
 
    return 0;
